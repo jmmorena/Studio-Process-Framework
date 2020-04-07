@@ -1,4 +1,4 @@
-# Project Name
+# UX Platform
 
 [Link to TEG case](http://www.google.com)
 
