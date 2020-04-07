@@ -1,4 +1,4 @@
-# UX Platform
+# UX Platform 2
 
 [Link to TEG case](http://www.google.com)
 
