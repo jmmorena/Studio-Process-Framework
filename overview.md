@@ -1,4 +1,4 @@
-# Project Name
+# Conference
 
 [Link to TEG case](http://www.google.com)
 
