@@ -1,4 +1,4 @@
-# Info
+# Internal Training
 
 [Link to TEG case](http://www.google.com)
 
