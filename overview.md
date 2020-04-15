@@ -76,5 +76,31 @@ Para la carga de datos se creó un Google Forms por su facilidad para generar re
 
 Todos los datos están disponibles en la seccion Benchmarking de este repo.
 
+### User Research Findings
+
+Se detectaron en total 7 ejes problemáticos a encarar, ordenados en esta lista de mayor a menor según su impacto en el producto
+
+1. __Definition:__ Los usuarios consideran que el Portal de Training caduca después del primer mes
+2. __Engagement:__ Los usuarios que conocen el Portal no vuelven a entrar o no encuentran motivos para hacerlo regularmente
+3. __Discoverability:__ Los usuarios no encuentran el contenido o se frustran buscándolo
+4. __Predictability:__ Los filtros no se comportan como los usuarios esperan o dan resultados poco intuitivos
+5. __Content Friendliness:__ Las sesiones no tienen descripciones claras o indicadores de los temas que se van a tocar y en qué momento del video
+6. __Content Flow:__ No hay una correlación lineal entre el contenido presentado
+7. __Branding:__ El Portal no responde a los nuevos lineamientos de Branding de Talent Brand
+
+## Process & Status Meetings
+
+### Status Meeting 1: Presentación de findings y definición de Scope
+
+Se presentaron todos los findings de user research al team de Internal Training y se presentaron dos posibles scopes de trabajo:
+
+- __Scope 1__
+⋅⋅⋅Ataca los problemas de __Engagement, Discoverability y Predictability__ . 
+⋅⋅⋅Los tasks a cumplir son:
+⋅⋅⋅ - Replanteo de la arquitectura de la información
+⋅⋅⋅ - Rediseño del Portal con foco en la usabilidad
+⋅⋅⋅ - Testeo de usabilidad de prototipo
+ 
+
 
 
