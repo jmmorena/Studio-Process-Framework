@@ -127,10 +127,8 @@ Sobre los aportes y comunicaciones con Internal Comms nos explayamos en el Anexo
 
 Esta presentación tuvo como fin la definición de elementos de UI particulares para atacar las problemáticas relevadas. A la misma se sumó Manu Migone para dar su feedback técnico de cada uno de los módulos.
 
-- Feature 1: Lists
-Contenido personalizado. Permite al usuario tener en su home una vista de las cards presentes en listas personalizadas - __Recommended for you__ (llamado Assigned Sessions en la versión final) presenta contenido curado especialmente para el usuario; __What's new__ releva en orden cronológico las sesiones de training más recientes; __Saved sessions__ muestra las sesiones que el usuario decidió guardar en su lista personal para referencia futura.
+### Status Meeting 3: Improvements
 
-- Feature 2: Progress Bar
-Con el fin de dar previsibilidad al onboarder, se sumó una barra de progreso en el home de onboarding
+
 
 
