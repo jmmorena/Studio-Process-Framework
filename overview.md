@@ -95,11 +95,11 @@ Se detectaron en total 7 ejes problemáticos a encarar, ordenados en esta lista 
 Se presentaron todos los findings de user research al team de Internal Training y se presentaron dos posibles scopes de trabajo:
 
 - __Scope 1__
-⋅⋅⋅Ataca los problemas de __Engagement, Discoverability y Predictability__ . 
-⋅⋅⋅Los tasks a cumplir son:
-⋅⋅⋅ - Replanteo de la arquitectura de la información
-⋅⋅⋅ - Rediseño del Portal con foco en la usabilidad
-⋅⋅⋅ - Testeo de usabilidad de prototipo
+Ataca los problemas de __Engagement, Discoverability y Predictability__ . 
+Los tasks a cumplir son:
+* Replanteo de la arquitectura de la información
+* Rediseño del Portal con foco en la usabilidad
+* Testeo de usabilidad de prototipo
  
 
 
