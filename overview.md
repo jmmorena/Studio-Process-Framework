@@ -117,7 +117,8 @@ El scope elegido por los stakeholders fue el __1__
 
 ### Status Meeting 2: Presentación de findings y definición de Scope
 
-En este punto se sumó un nuevo stakeholder, Internal Comms, que se unió al proyecto con el fin de nuclear todos los proyectos de aplicación del nuevo branding de Avature.
+En este punto se sumó un nuevo stakeholder, __Internal Comms__, que se unió al proyecto con el fin de nuclear todos los proyectos de aplicación del nuevo branding de Avature.
+
 Sobre los aportes y comunicaciones con Internal Comms nos explayamos en el Anexo A: Working with Internal Comms (WIP) y sobre la aplicación de branding, ya sea Corporate o Talent Brand, lo hacemos en el documento Talent and Corporate Brand for Internal Portals (WIP)
 
 
