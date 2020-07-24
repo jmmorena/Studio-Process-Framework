@@ -97,10 +97,23 @@ Se presentaron todos los findings de user research al team de Internal Training 
 #### __Scope 1__
 Ataca los problemas de __Engagement, Discoverability y Predictability__ . 
 Los tasks a cumplir son:
-* Replanteo de la arquitectura de la información
-* Rediseño del Portal con foco en la usabilidad
-* Testeo de usabilidad de prototipo
+- Replanteo de la arquitectura de la información
+- Rediseño del Portal con foco en la usabilidad
+- Testeo de usabilidad de prototipo
  
+#### __Scope 2__
+Ataca los problemas de __Engagement (con un fuerte foco en la ludificación), Discoverability, Predictability__ . 
+Los tasks a cumplir son:
+- Replanteo de la arquitectura de la información
+- Rediseño del Portal con foco en la usabilidad
+- Testeo de usabilidad de prototipo
+- Planteo de un modelo de Gamification
+
+Independientemente del scope seleccionado, todas las estrategias deberían atacar __Definition, Content Flow, y Branding__
+
+El eje de __Content Friendliness__ depende del contenido del área de Internal Training
+
+El scope elegido por los stakeholders fue el __1__
 
 
 
